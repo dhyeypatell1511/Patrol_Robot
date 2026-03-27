@@ -1,0 +1,7 @@
+# Defines object locations as [x, y, theta]
+location1: [-3.71, 8.96, 0.0]
+location2: [-4.74,-7.85, 1.571]
+location3: [5.79, -8.56, 3.141]
+location4: [5.36, 1.91, -1.571]
+location5: [1.71, 9.22, 0.0]
+location6: [-0.85, -1.06, -1.571]
