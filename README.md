@@ -19,3 +19,5 @@ opens rviz
 open new terminal:
 ros2 launch roboai_autonomy autonomy.launch.cpp
 starts the robot to move to the given coordinates one after the other.
+
+Youtube Video Link of simulation : https://youtu.be/HJ9aLOsUftY
